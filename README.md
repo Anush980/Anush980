@@ -24,9 +24,9 @@
   <a href="https://instagram.com/_anush43" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anush43" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/tmusic1" target="blank">
+<!-- <a href="https://www.youtube.com/c/tmusic1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tmusic1" height="30" width="40" />
-  </a>
+  </a>-->
   <a href="https://www.leetcode.com/anush232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anush232" height="30" width="40" />
   </a>
