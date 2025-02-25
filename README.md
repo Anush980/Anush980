@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anush980/](https://github.com/Anush980/)
 
-- 📫 How to reach me **anush.stha232@gmail.com**
+- 📫 How to reach me **anush.stha980@outlook.com**
 
 - ⚡ Fun fact **I am God at nothing**
 
