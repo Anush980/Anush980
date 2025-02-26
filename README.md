@@ -63,8 +63,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anush980&show_icons=true&locale=en&layout=compact&theme=dark&border_color=2f4f4f" alt="Most Used Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
+<!--  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anush980&show_icons=true&locale=en&layout=compact&theme=dark&border_color=2f4f4f" alt="Most Used Languages" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
 </p>
 
 <br clear="both" />
