@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **trying to figure it out**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anush980/](https://github.com/Anush980/)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/Anush980?tab=repositories)
 
 - 📫 How to reach me **anush.stha980@outlook.com**
 
