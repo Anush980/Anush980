@@ -10,6 +10,9 @@
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/Anush980?tab=repositories)
 
 - 📫 How to reach me **anush.stha980@outlook.com**
+  
+- 💻Check out the live version of my portfolio:
+[View Portfolio](https://anush980.github.io/Portfolio/)
 
 - ⚡ Fun fact **I am God at nothing**
 
