@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anush.stha980@outlook.com**
   
-- 💻Check out the live version of my portfolio:
+- 💻 Check out the live version of my portfolio:
 [View Portfolio](https://anush980.github.io/Portfolio/)
 
 - ⚡ Fun fact **I am God at nothing**
@@ -27,9 +27,6 @@
   <a href="https://instagram.com/_anush232" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anush43" height="30" width="40" />
   </a>
-<!-- <a href="https://www.youtube.com/c/tmusic1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tmusic1" height="30" width="40" />
-  </a>-->
   <a href="https://leetcode.com/u/Anush980/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anush232" height="30" width="40" />
   </a>
@@ -55,6 +52,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">GitHub Trophies:</h3>
@@ -66,8 +66,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<!--  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anush980&show_icons=true&locale=en&layout=compact&theme=dark&border_color=2f4f4f" alt="Most Used Languages" /> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
 </p>
-
-<br clear="both" />
