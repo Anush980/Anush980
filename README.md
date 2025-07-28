@@ -13,7 +13,7 @@
 [NepArcade](https://neparcade.vercel.app/)
 
 - 💻 Check out the live version of my portfolio:
-[View Portfolio](https://anush980.github.io/Portfolio/)
+[View Portfolio](https://react-portfolio-jade-tau.vercel.app/)
 
 - ⚡ Fun fact **I am God at nothing**
 
