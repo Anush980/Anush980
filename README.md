@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anush Shrestha</h1>
-<h3 align="center">A passionate noob developer from Nepal</h3>
+<h3 align="center">A passionate NOOB PROGRAMMER from Nepal</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anush980&label=Profile%20views&color=0e75b6&style=flat" alt="anush980" />
