@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=anush980&label=Profile%20views&color=0e75b6&style=flat" alt="anush980" />
 </p>
 
-- 🔭 I’m currently working on **trying to figure it out**
+- 🔭 I’m currently working on **Personal Projects**
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/Anush980?tab=repositories)
 
 - 📫 How to reach me **anush.stha980@outlook.com**
