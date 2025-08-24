@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anush Shrestha</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anush Shrestha</h1>
 <h3 align="center">A passionate NOOB PROGRAMMER from Nepal</h3>
 
 <p align="left">
@@ -65,13 +65,11 @@
 
 </p>
 
-<h3 align="left">GitHub Trophies:</h3>
+<!-- <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anush980&theme=onedark" alt="anush980" />
-  </a>
-</p>
 
+</p>
+-->
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
