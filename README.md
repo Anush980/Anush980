@@ -65,14 +65,13 @@
 
 </p>
 
-<!-- <h3 align="left">GitHub Trophies:</h3>
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=anush980&theme=radical&margin-w=10" width="80%"/>
-</a>
+ <h3 align="left">GitHub Trophies:</h3>
 
-
-</p>-->
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophygh.kolioaris.xyz/?username=anush980&theme=darkhub" width="80%" />
+  </a>
+</p>
 
 <h3 align="left">GitHub Stats & Streak:</h3>
 <p align="center">
