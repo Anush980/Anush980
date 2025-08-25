@@ -69,7 +69,7 @@
 
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygh.kolioaris.xyz/?username=anush980&theme=darkhub" width="80%" />
+    <img src="https://trophygh.kolioaris.xyz/?username=anush980&theme=darkhub" />
   </a>
 </p>
 
