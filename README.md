@@ -65,15 +65,31 @@
 
 </p>
 
- <h3 align="left">GitHub Trophies:</h3>
+<!-- <h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy
-"><img src="http://trophygh.kolioaris.xyz?username=anush980&theme=radical&margin-w=10
-" width="80%"/></a>
-</p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anush980&theme=radical&margin-w=10" width="80%"/>
+</a>
 
-<h3 align="left">GitHub Stats:</h3>
+
+</p>-->
+
+<h3 align="left">GitHub Stats & Streak:</h3>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
+  <p align="center">
+  <!-- GitHub Streak Stats -->
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=anush980&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+
+
 </p>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anush980/anush980/output/snake.svg" alt="Snake animation" />
+  <br>
+  <!--<sup><span style="font-size:1.4em; color:#36e200;">🟢</span> Green dots = my coding activity!</sup>-->
+</p>
+
 
