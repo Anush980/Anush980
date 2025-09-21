@@ -79,9 +79,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
   </span>
   <span style="display:inline-block; margin-left:30px; ">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=anush980&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=anush980&theme=dark&border_color=2f4f4f" alt="GitHub Streak" />
   </span>
+  
 </p>
+<!-- <h3 align="left">Most Used Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush980&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+</p> -->
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anush980/anush980/output/snake.svg" alt="Snake animation" />
