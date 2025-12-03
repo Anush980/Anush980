@@ -89,9 +89,9 @@
 <h3 align="left">GitHub Stats & Streak:</h3>
 <p align="center">
   <!-- Stats Card -->
-  <span style="display:inline-block; margin-right:30px;">
+  <!-- <span style="display:inline-block; margin-right:30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=anush980&show_icons=true&locale=en&theme=dark&border_color=2f4f4f" alt="GitHub Stats" />
-  </span>
+  </span> -->
   <!-- Streak Card -->
   <span style="display:inline-block; margin-left:30px; ">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=anush980&theme=dark&border_color=2f4f4f" alt="GitHub Streak" />
