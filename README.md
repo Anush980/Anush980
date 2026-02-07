@@ -104,14 +104,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush980&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
 </p>-->
 
-<!--  Snake Contribution Animation -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/anush980/anush980/output/snake.svg" alt="Snake animation" />
-  <br> -->
  <!-- Space shooter Contribution Animation -->
 <p align="center">
   <img src="https://github.com/Anush980/Anush980/blob/main/assets/space-shooter.gif" alt="Space shooter animation" />
   <br> 
+  
+<!--  Snake Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anush980/anush980/snake/snake.svg" alt="Snake animation" />
+  <br> 
+
 
   <!--<sup><span style="font-size:1.4em; color:#36e200;">🟢</span> Green dots = my coding activity!</sup>-->
 </p>
