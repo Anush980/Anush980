@@ -108,6 +108,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/anush980/anush980/output/snake.svg" alt="Snake animation" />
   <br>
+ <!-- Space shooter Contribution Animation -->
+<p align="center">
+  <img src="https://github.com/Anush980/Anush980/blob/main/assets/space-shooter.gif" alt="Space shooter animation" />
+  <br> 
 
   <!--<sup><span style="font-size:1.4em; color:#36e200;">🟢</span> Green dots = my coding activity!</sup>-->
 </p>
