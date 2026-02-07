@@ -104,10 +104,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anush980&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
 </p>-->
 
-<!-- 🐍 Snake Contribution Animation -->
-<p align="center">
+<!--  Snake Contribution Animation -->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/anush980/anush980/output/snake.svg" alt="Snake animation" />
-  <br>
+  <br> -->
  <!-- Space shooter Contribution Animation -->
 <p align="center">
   <img src="https://github.com/Anush980/Anush980/blob/main/assets/space-shooter.gif" alt="Space shooter animation" />
