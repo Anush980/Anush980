@@ -1,36 +1,43 @@
-name: Update Space Shooter Game
+name: Generate Space Shooter GIF
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  update-game:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repo
+      # Step 1: Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create folder
+      # Step 2: Create assets folder
+      - name: Create assets directory
         run: mkdir -p assets
 
-      - name: Generate Space Shooter GIF
+      # Step 3: Generate the Space Shooter GIF
+      - name: Generate space-shooter.gif
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'assets/space-shooter.gif'
-          strategy: 'random'
+          output-path: assets/space-shooter.gif
+          strategy: random
 
-      - name: Publish GIF to GitHub Pages
+      # Step 4: Push GIF to output branch
+      - name: Push GIF to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: gh-pages
+          target_branch: output
           build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
