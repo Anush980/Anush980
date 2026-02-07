@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,11 +11,26 @@ permissions:
 jobs:
   update-game:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    timeout-minutes: 10
 
-      - uses: czl9707/gh-space-shooter@v1
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create folder
+        run: mkdir -p assets
+
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'space-shooter.gif'
+          output-path: 'assets/space-shooter.gif'
           strategy: 'random'
+
+      - name: Publish GIF to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: gh-pages
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
