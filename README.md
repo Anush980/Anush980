@@ -15,7 +15,7 @@
 - 📫 How to reach me **anush.stha980@outlook.com**  
 - Want to support: 
 - 🥟: **https://buymemomo.com/anush980**
-- ☕️: **https://buymeacoffee.com/anush980**
+<!-- - ☕️: **https://buymeacoffee.com/anush980**-->
 - 💻 Check out the live version of my portfolio: [View Portfolio](https://react-portfolio-jade-tau.vercel.app/)  
 - ⚡ Fun fact **I am God at nothing**  
 
