@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Personal Projects**  
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/Anush980?tab=repositories)  
 - 📫 How to reach me **anush.stha980@outlook.com**  
-- 💻 Check out the live version of my portfolio: [View Portfolio](https://react-portfolio-jade-tau.vercel.app/)  
+- 💻 Check out the live version of my portfolio: [View Portfolio](https://portfolio-frontend-psi-beige.vercel.app/portfolio/anush232)  
 - ⚡ Fun fact **I am God at nothing**
 - Want to support: 
 - 🥟: **https://buymemomo.com/anush980**
