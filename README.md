@@ -12,7 +12,7 @@
 
 
 <!--  About Me Section -->
-###  About Me
+##  About Me
 
 - 🔭 I'm currently working on **Personal Projects**
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/Anush980?tab=repositories)**
@@ -25,7 +25,7 @@
 ---
 
 <!--  Social / Connect Section -->
-###  Connect with Me
+##  Connect with Me
 
 <p align="left">
   <!-- LinkedIn -->
@@ -49,7 +49,7 @@
 ---
 
 <!--  Tech Stack / Languages & Tools -->
-###  Languages and Tools
+##  Languages and Tools
 
 <p align="left">
   <!-- Java -->
@@ -93,7 +93,7 @@
 ---
 
 <!--  GitHub Trophies -->
-###  GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -121,7 +121,7 @@
 ---
 
 <!--  Space Shooter Contribution Animation -->
-### Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <!-- Space shooter animation (auto-generated via GitHub Actions) -->
