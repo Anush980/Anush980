@@ -107,6 +107,8 @@
 ###  GitHub Stats & Streak
 
   <!--  GitHub Streak Card -->
+  
+<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=anush980&theme=dark&border_color=2f4f4f" alt="GitHub Streak" />
 </p>
 
