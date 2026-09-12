@@ -88,6 +88,13 @@
   <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" title="CSS3" />
   </a>
+  <a href="https://nextjs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+</a>
+
 </p>
 
 ---
