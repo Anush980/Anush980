@@ -34,6 +34,9 @@
     <a href="https://instagram.com/_anush232">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>&nbsp;
+        <a href="https://www.anushstha.com.np/portfolio/anush232">
+    <img src="https://skillicons.dev/icons?i=ros" height="40" alt="Portfolio" />
+  </a>&nbsp;
       <a href="https://leetcode.com/u/Anush980">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" />
   </a>&nbsp;
