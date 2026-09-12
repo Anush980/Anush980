@@ -68,10 +68,11 @@
   <a href="https://reactjs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" />
   </a>
-  <!-- Flutter -->
+  <!-- Flutter 
   <a href="https://flutter.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" title="Flutter" />
   </a>
+  -->
   <!-- Linux -->
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" title="Linux" />
