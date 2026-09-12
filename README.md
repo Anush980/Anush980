@@ -27,79 +27,33 @@
 <!--  Social / Connect Section -->
 ##  Connect with Me
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/anush232">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a> 
-  &nbsp;
-  <!-- Facebook -->
-  <a href="https://fb.com/anush232">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
-  </a>
-&nbsp;
-  <!-- Instagram -->
-  <a href="https://instagram.com/_anush232">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-&nbsp;
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Anush980/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+<p align="left" >
+    <a href="https://linkedin.com/in/anush232">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>&nbsp;
+    <a href="https://instagram.com/_anush232">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>&nbsp;
+      <a href="https://leetcode.com/u/Anush980">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" />
+  </a>&nbsp;
+      <a href="https://fb.com/anush232">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="Facebook" />
+  </a>&nbsp;
+      <a href="https://github.com/anush980">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
+
+
 
 
 ---
 
 <!--  Tech Stack / Languages & Tools -->
 ##  Languages and Tools
-
 <p align="left">
-  <!-- Java -->
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java" />
-  </a>&nbsp;
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" title="Spring Boot" />
-  </a>&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
-  </a>&nbsp;
-  <!-- React -->
-  <a href="https://reactjs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" />
-  </a>&nbsp;
-  <!-- Flutter 
-  <a href="https://flutter.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" title="Flutter" />
-  </a>&nbsp;
-  -->
-  <!-- Linux -->
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" title="Linux" />
-  </a>&nbsp;
-  <!-- C -->
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" title="C" />
-  </a>&nbsp;
-  <!-- HTML5 
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" title="HTML5" />
-  </a>&nbsp;
-  <!-- CSS3 
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" title="CSS3" />
-  </a>&nbsp;-->
-  <a href="https://nextjs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
-</a>&nbsp;
-<a href="https://www.typescriptlang.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
-</a>&nbsp;
-
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,react,arch,c,nodejs,nextjs,typescript,flutter,html,css" />
 </p>
 
 ---
