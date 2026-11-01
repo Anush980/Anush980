@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently working on **HamroSpace Backend**
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/Anush980?tab=repositories)**
-- 📫 How to reach me: **anush.stha232@gmail.com**
+- 📫 How to reach me: **hello@anushstha.com.np**
 - 💻 Check out my portfolio: **[www.anushstha.com.np](https://www.anushstha.com.np)**
 - ⚡ Fun fact: **I am God at nothing**
 - 🥟 Want to support me? **[buymemomo.com/anush980](https://buymemomo.com/anush980)**
